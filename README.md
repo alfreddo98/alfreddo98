@@ -1,4 +1,4 @@
-<h2> Hi, I'm Alfredo Sánchez! </h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+<h2> Hi, I'm Alfredo Sánchez! </h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <img align='right' src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="230">
 <p><em>Student of Telecommunication Engineering at <a href="https://www.comillas.edu/">Universidad Ponfificia de Comillas </a><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Comillas_Pontifical_University_seal.svg/270px-Comillas_Pontifical_University_seal.svg.png" width="30"> </br>Student Exchange program at <a href="https://illinois.edu/">University of Illinois at Urbana-Champaign </a><img src="https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="30"> 
 </em></p>
