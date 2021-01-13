@@ -13,8 +13,8 @@
 const alfredo = {
   pronouns: "he" | "him",
   code: [Java, Unix, Matlab, Python, HTML, CSS, C++],
-  tools: [IBM Cloud, Virtual Machines, Docker, Electronic knowledge],
-  Cybersecurity: ["Wifi hacking", "event-driven", "design system pattern"],
+  tools: [IBMCloud, VirtualMachines, Docker, Electronic],
+  Cybersecurity: ["Wifi hacking", "Ethical hacking", "Cyber awareness"],
   automatedDevices: {
                         position: "intership",
                         location: "Mostoles, Spain",
