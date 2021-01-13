@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Alfredo](https://img.shields.io/badge/-Alfredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-s%C3%A1nchez-s%C3%A1nchez-594479187/)](https://www.linkedin.com/in/alfredo-s%C3%A1nchez-s%C3%A1nchez-594479187/)
-[![GitHub Alfredo](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alfreddo98/)
+[![GitHub Alfredo](https://img.shields.io/github/followers/alfreddo98?label=follow&style=social)](https://github.com/alfreddo98/)
 
 
 ### <img src="https://www.media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
