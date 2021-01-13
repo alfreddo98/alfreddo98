@@ -3,8 +3,8 @@
 <p><em>Student of Telecommunication Engineering at <a href="https://www.comillas.edu/">Universidad Ponfificia de Comillas </a><img src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="30"> </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks </a><img src="https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="30"> 
 </em></p>
 
-[![Linkedin: alfredo](https://img.shields.io/badge/-Alfredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-s%C3%A1nchez-s%C3%A1nchez-594479187/)](https://www.linkedin.com/in/alfredo-s%C3%A1nchez-s%C3%A1nchez-594479187/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Alfredo](https://img.shields.io/badge/-Alfredo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-s%C3%A1nchez-s%C3%A1nchez-594479187/)](https://www.linkedin.com/in/alfredo-s%C3%A1nchez-s%C3%A1nchez-594479187/)
+[![GitHub Alfredo](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/alfreddo98/)
 
 
 ### <img src="https://www.media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
