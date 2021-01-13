@@ -1,4 +1,4 @@
-<h2> Hi, I'm Alfredo Sánchez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Alfredo Sánchez! </h2>
 <img align='right' src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="230">
 <p><em>Student of Telecommunication Engineering at <a href="https://www.comillas.edu/icai">Universidad Ponfificia de Comillas</a><img src="https://twitter.com/UCOMILLAS/photo" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="30"> 
 </em></p>
