@@ -7,7 +7,7 @@
 [![GitHub Alfredo](https://img.shields.io/github/followers/alfreddo98?label=follow&style=social)](https://github.com/alfreddo98/)
 
 
-### <img src="https://www.cisco.com/c/dam/assets/swa/img/600/what-is-628x353.jpg" width="50"> A little more about me...  
+### <img src="https://i.pinimg.com/originals/5b/5e/e6/5b5ee6d66e250283a3fd6928a40768d0.gif" width="50"> little more about me...  
 
 ```javascript
 const alfredo = {
