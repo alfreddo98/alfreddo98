@@ -1,6 +1,6 @@
 <h2> Hi, I'm Alfredo Sánchez! </h2>
 <img align='right' src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="230">
-<p><em>Student of Telecommunication Engineering at <a href="https://www.comillas.edu/">Universidad Ponfificia de Comillas</a><img src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="30"> </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="30"> 
+<p><em>Student of Telecommunication Engineering at <a href="https://www.comillas.edu/">Universidad Ponfificia de Comillas </a><img src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="30"> </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks </a><img src="https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
