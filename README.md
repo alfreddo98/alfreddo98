@@ -1,5 +1,5 @@
 <h2> Hi, I'm Alfredo Sánchez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="230">
 <p><em>Student of Telecommunication Engineering at <a href="https://www.comillas.edu/icai">Universidad Ponfificia de Comillas</a><img src="https://twitter.com/UCOMILLAS/photo" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="30"> 
 </em></p>
 
@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-### <img src="https://www.comillas.edu/images/modulo_cabecera/logo-icai-site.png" width="50"> A little more about me...  
+### <img src="https://www.media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
