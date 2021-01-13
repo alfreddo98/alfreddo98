@@ -16,7 +16,7 @@ const alfredo = {
   tools: [IBMCloud, VirtualMachines, Docker, Electronic],
   Cybersecurity: ["Wifi hacking", "Ethical hacking", "Cyber awareness"],
   automatedDevices: {
-                        position: "intership",
+                        position: "Intership",
                         location: "Mostoles, Spain",
                         project: "Development of web application using a board with the objective of measuring temperature and humidity of racks intended for the company cosdb"
                       },
