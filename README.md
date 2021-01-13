@@ -10,20 +10,20 @@
 ### <img src="https://www.media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+const alfredo = {
+  pronouns: "he" | "him",
+  code: [Java, Unix, Matlab, Python, HTML, CSS, C++],
+  tools: [IBM Cloud, Virtual Machines, Docker, Electronic knowledge],
+  Cybersecurity: ["Wifi hacking", "event-driven", "design system pattern"],
+  automatedDevices: {
+                        position: "intership",
+                        location: "Mostoles, Spain",
+                        project: "Development of web application using a board with the objective of measuring temperature and humidity of racks intended for the company cosdb"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Learning as much as posible about Cybersecurity and currently looking for some intership "
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like to make new connections with different people</b> so if you want to say <b>hi, you can reach me by linkedin!</b> :)</em>
 
 ---
